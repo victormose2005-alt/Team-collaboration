@@ -18,3 +18,4 @@ Welcome to our mini knowledge base on developer tools. This project shares usefu
 ## Git and GitHub
 
 <!-- This section will be added by the assigned team member. -->
+Git tracks changes and versions of files, while Github hosts repositories online. Github helps developers share projects, review code, and collaborate. Git command a like commit, push, and pull manage changes. Together, they make team work and software development easier.
