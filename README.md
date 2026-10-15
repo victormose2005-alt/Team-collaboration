@@ -13,8 +13,8 @@ Welcome to our mini knowledge base on developer tools. This project shares usefu
 
 ## Visual Studio Code
 
-<!-- This section will be added by the assigned team member. -->
+Visual Studio Code (VS Code) is a free code editor developed by Microsoft. It helps programmers write, edit, and debug code in different programming languages, including HTML, CSS, JavaScript, and Python. It supports extensions that add useful features, such as code formatting and language support. Beginners can use VS Code to organize project files and write code efficiently.
 
 ## Git and GitHub
 
-<!-- This section will be added by the assigned team member. -->
+
